@@ -1,5 +1,5 @@
 Coleus
 (Solenostemon scutellarioides)
-Fast-growing, tropical flowering plants in the mint family, known for their vibrant foliage with a range of colors and patterns. They prefer partial shade and moist soil.
+Coleus is a popular ornamental foliage plant, admired for its vivid leaf colors and striking patterns. Unlike fruiting crops, its value lies entirely in its leaves, which makes it particularly vulnerable to aesthetic damage. Pests such as aphids, mealybugs, and whiteflies (though not all appear in-game) feed readily on coleus, leaving behind stippling, curling, and sticky honeydew that mars the plant’s visual appeal. In greenhouses, infestations can spread quickly through coleus collections, rendering entire benches unsellable.
 
-Coleus has two main types: ornamental species grown for their attractive leaves and cultivars used for culinary purposes. The plants are susceptible to pests like spider mites and diseases such as leaf spot.
+In the game, coleus functions as a “fragile but low-stakes” plant. Because its role is ornamental, its loss doesn’t cripple yield-based scoring the way peppers or cucumbers might. Instead, coleus acts as an early warning system — a host that often attracts pests first, buying players time to intervene before infestations spread to more valuable crops.

@@ -1,5 +1,5 @@
 Cucumber plants
 (Cucumis sativus)
-Fast-growing vines in the gourd family, known for their crisp, water-rich fruits. They thrive in warm, sunny environments and produce yellow flowers that rely on pollinators for fruit development.
+Cucumbers are among the most common greenhouse vegetables, prized for their fast growth and steady production. However, they are highly susceptible to pest infestations, particularly spider mites, thrips, and aphids, which thrive in warm, humid environments where cucumbers flourish. Feeding damage can manifest as stippled leaves, distorted growth, and, in severe cases, total crop failure. Because cucumbers are sensitive to many pesticides, growers often struggle to manage pests without causing phytotoxic damage.
 
-There are two main types: slicing cucumbers for fresh eating and pickling cucumbers for preservation. The plants need consistent watering and are prone to pests like cucumber beetles and diseases such as powdery mildew.
+In the game, cucumbers serve as a “volatile” plant type: they grow quickly and provide significant benefits if kept healthy, but they also crash rapidly under sustained pest pressure. They challenge players to act decisively, deploying treatments before infestations spiral out of control.

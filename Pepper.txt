@@ -1,5 +1,5 @@
 Peppers
 (Capsicum spp.)
-Annual or perennial flowering plants in the nightshade family, known for their colorful fruits used as vegetables or spices. They thrive in warm, sunny environments with well-drained soil.
+Peppers are a staple greenhouse vegetable crop, grown for their colorful fruit and culinary versatility. Their tender leaves and stems make them attractive hosts for sap-feeding insects like aphids, as well as thrips and mites, which can damage both foliage and fruit. Greenhouse-grown peppers are especially vulnerable because high humidity and dense plantings create ideal conditions for pests to thrive. For growers, pest damage can reduce fruit yield, deform developing pods, and introduce diseases like Tomato Spotted Wilt Virus carried by thrips.
 
-Peppers come in various types, including bell peppers, chili peppers, and ornamental varieties like the Thai dragon fruit pepper. The plants are prone to pests like aphids and diseases such as bacterial spot.
+In the game, peppers represent a crop of medium durability but high consequence. Unlike ornamentals, peppers provide long-term value across multiple turns, but losing them means sacrificing a major source of “yield.” Their gameplay role pushes players to balance defensive investments early, knowing that pests left unchecked can compromise the crop’s payoff later.

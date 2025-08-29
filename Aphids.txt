@@ -1,5 +1,17 @@
 Aphids
 (family Aphididae)
-Small, sap-feeding insects belonging to the order Hemiptera. Characterized by their pear-shaped bodies and often exhibiting vibrant colors like green, yellow, or black, they thrive on a wide variety of plant species. Their primary feeding behavior involves piercing plant tissues with specialized mouthparts and extracting phloem sap, which can stunt growth and transmit plant viruses.
+Aphids are small, soft-bodied insects that pierce plant tissues with stylets to feed on nutrient-rich phloem sap. This feeding drains plant vigor, causes curling or yellowing leaves, and transmits viruses. Colonies expand rapidly because many aphids reproduce parthenogenetically, producing live young that mature within days. In greenhouse environments, dense plantings of peppers, cucumbers, or ornamentals create ideal conditions for infestations. Their rapid reproduction, coupled with indirect damage via disease transmission, makes them one of the most persistent greenhouse pests.
+Treatment Modules (Gameplay Tie-Ins):
+Horticultural Oil: Strong choice, but lacks residual — pests can rebound.
 
-Reproduction in aphids is typically asexual through parthenogenesis – females reproduce without mating – leading to rapid population booms. However, some species alternate between sexual and asexual reproduction cycles. Control methods often involve physical removal, insecticidal soaps, or introducing natural predators like ladybugs to manage infestations effectively.
+
+Spinosad: Weak efficacy; using this card against aphids often wastes a slot, poor treatment choice.
+
+
+Imidacloprid: Highly effective, long-lasting control. Repeated use risks resistance development and secondary mite outbreak due to hormesis. Major Bee issues.
+
+
+Permethrin: Provides a quick knockdown and moderate persistence, but harms/repels predators and increases secondary mite outbreak chance due to hormesis.
+
+
+Abamectin: Solid choice, but doesn’t translocate into the phloem where aphids feed… effectively similar to permethrin in this case.
